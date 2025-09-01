@@ -1,0 +1,108 @@
+%YAML:1.0
+---
+infos:
+   -
+      angle: 150.
+      scale: 9.0000003576278687e-01
+   -
+      angle: 330.
+      scale: 9.0000003576278687e-01
+   -
+      angle: 0.
+      scale: 1.
+   -
+      angle: 30.
+      scale: 1.
+   -
+      angle: 60.
+      scale: 1.
+   -
+      angle: 90.
+      scale: 1.
+   -
+      angle: 150.
+      scale: 1.
+   -
+      angle: 180.
+      scale: 1.
+   -
+      angle: 210.
+      scale: 1.
+   -
+      angle: 240.
+      scale: 1.
+   -
+      angle: 270.
+      scale: 1.
+   -
+      angle: 330.
+      scale: 1.
+   -
+      angle: 360.
+      scale: 1.
+   -
+      angle: 0.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 90.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 120.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 150.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 180.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 270.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 300.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 330.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 360.
+      scale: 1.1000000238418579e+00
+   -
+      angle: 0.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 30.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 60.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 90.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 120.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 150.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 180.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 210.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 240.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 270.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 300.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 330.
+      scale: 1.2000000476837158e+00
+   -
+      angle: 360.
+      scale: 1.2000000476837158e+00
